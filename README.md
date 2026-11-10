@@ -7,7 +7,7 @@
 
 ## 下载
 
-[![Build Status](https://builds.guizhanss.com/SlimefunGuguProject/Quaptics/master/badge.svg)](https://builds.guizhanss.com/SlimefunGuguProject/Quaptics/master)
+[下载 Quaptics](https://resources.guizhanss.com/plugin/Quaptics)
 
 ## 量子光学是什么？
 Quaptics（量子光学）是一个 [Slimefun](https://github.com/Slimefun/Slimefun4) 附属插件，提供了一些启发智力的东西。玩家可以创建、操纵量子光束，并在一个全新的系统中使用，这并不像电路回路。
